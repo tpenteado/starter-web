@@ -22,4 +22,4 @@ pf Fork esse repositorio e sei-la
 
 ### Copyright
 
-não deveria
+não deveria, mas pessoal gosta de um estadista
