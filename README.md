@@ -8,6 +8,7 @@ Exemplo X whatever
 
 ## Purpose
 
+ta o treinamento e bom
 mais chatisse
 
 ## Deployment
