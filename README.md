@@ -16,6 +16,8 @@ sei-la oq colocar, ta ai, deplou
 
 ## How To Contribute
 
+pf Fork esse repositorio e sei-la
+
 ### Copyright
 
 não deveria
