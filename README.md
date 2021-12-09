@@ -15,3 +15,7 @@ mais chatisse
 sei-la oq colocar, ta ai, deplou
 
 ## How To Contribute
+
+### Copyright
+
+não deveria
