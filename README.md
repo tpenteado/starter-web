@@ -8,6 +8,10 @@ Exemplo X whatever
 
 ## Purpose
 
+mais chatisse
+
 ## Deployment
+
+sei-la oq colocar, ta ai, deplou
 
 ## How To Contribute
